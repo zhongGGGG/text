@@ -31,4 +31,10 @@ public class DemoApplication {
         }
 
     }
+    public static  class  test3{
+        public static void main(String[] args){
+            System.out.println("酒后少女的梦");
+        }
+
+    }
 }
