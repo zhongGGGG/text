@@ -39,7 +39,7 @@ public class DemoApplication {
     }
     public  static class  test4{
         public static void main(String[] args) {
-            System.out.println("可可sb");
+            System.out.println("可可");
             System.out.println("九亿少女的梦");
         }
     }
